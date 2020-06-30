@@ -7,5 +7,5 @@ where x is a numpy array, V is the function space, and probe_id is a numeric id 
 
 To update, use:
 p(u, t, probe_folder, V)
-where u is a function defined on a function space, t is the time, probe_folder is the folder you want the probes to be printed to, and V is the function space.
+where u is a 3-component function defined on a function space, t is the time, probe_folder is the folder you want the probes to be printed to, and V is the function space.
 
